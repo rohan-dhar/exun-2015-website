@@ -1,0 +1,149 @@
+::-webkit-scrollbar{
+    background-color: rgba(0,0,0,0.0);
+    width: 7px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: rgba(20,20,20,0.4);
+    border-radius: 9px;
+}
+
+*{
+	margin: 0px;
+	padding: 0px;
+	background-color: transparent;
+}
+
+body, html{
+	height: 100%;
+}
+
+body{
+	background-color: #eee;
+	overflow-x:hidden; 
+	text-align: center;
+	word-wrap:break-word;
+}
+
+header{
+	height: 65px;
+	width: 100%;
+	background-color: #eee;
+	box-shadow: 0px 2px 7px 2px rgba(10,10,10,0.3);
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+	text-align: right;
+}
+
+#mailLogo{
+	position: absolute;
+	height: 35px;
+	width: auto;
+	left: 20px;
+	top: 17px;
+	cursor: pointer;
+}
+
+#back{
+	color: #5C90D8;
+	font-family: raleway;
+	text-transform: uppercase;
+	display: inline-block;
+	height: 65px;
+	line-height: 65px;
+	font-size: 10.2pt;
+	font-weight: 500;
+	margin-right: 20px;
+	position: relative;
+	right: 30px;
+	cursor: pointer;
+	text-decoration: none;
+	-webkit-transition: all 0.3s;  
+	-ms-transition: all 0.3s;  
+	-moz-transition: all 0.3s;  
+	transition: all 0.3s; 
+}
+
+#back:hover{
+	height: 62px;
+	border-bottom: 3px solid #5C90D8; 	
+}
+
+
+#place{
+	position: absolute;
+	height: 100%;
+	top: 0px;
+	left: 120px;
+	line-height: 65px;
+	font-family: raleway;
+	font-weight: 700;
+	font-size: 14pt;
+	color: #5092D6;
+	text-transform: uppercase;
+}
+
+.memCard{
+	display: inline-block;
+	position: relative;
+	text-align: left;
+	top: 120px;
+	height: 90px;
+	width: 370px;
+	background-color: #fff;
+	margin-left: 14px;
+	margin-right: 14px;
+	margin-top: 20px;
+	box-shadow: 0px 0px 4px 1px rgba(10,10,10,0.2);
+}
+
+.memPic{
+	height: 90px;
+	width: 90px;
+	position: absolute;
+}
+
+.memName, .memDesig{
+	position: relative;
+	left: 110px;
+	font-family: open sans;
+	top: 15px;
+	font-weight: 300;
+}
+
+.memName{
+	font-size: 17pt;
+}
+
+.memDesig{
+	font-weight: 400;
+	font-size: 12pt;
+}
+
+.label{
+	position: relative;
+	top: 120px;
+	font-family: raleway;
+	font-weight: 400;
+	font-size: 15pt;
+	margin-bottom: 20px;
+	margin-top: 45px;
+	color: #353454;
+}
+
+footer{
+	position: relative;
+	top:120px;
+	margin-top: 70px;
+	height: 65px;
+	width: 100%;
+	background-color: #1755A9;
+	line-height: 65px;
+	text-align: center;
+	color: #eee;
+	font-family: raleway;
+	font-size: 11pt;
+	font-weight: 400;
+}

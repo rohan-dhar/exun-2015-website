@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		
+		<title>Exun Clan</title>
+		
+		<link href='https://fonts.googleapis.com/css?family=Raleway:500,700,200' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>		
+
+		<link rel="stylesheet" type="text/css" href="CSS/style.css" />
+
+		<script type="text/javascript" src="JS/jquery.js"></script>
+		<script type="text/javascript" src="JS/script.js"></script>
+
+	</head>
+	<body>	
+
+		<header>
+			
+			<img id="mailLogo" src='IMG/logo.png' />
+
+			<div class="menuItem activeMenuItem" id='mi1'>Home</div>
+			<div class="menuItem" id='mi2'>About</div>
+			<div class="menuItem" id='mi3'>Members</div>
+			<div class="menuItem" id='mi4'>Achievements</div>
+			<div class="menuItem" id='mi5'>Contact</div>
+		</header>
+
+		<div class="page" id='p1'>
+			<div class="over">
+
+				<h1>Hi, We're <span>Exun</span> Clan</h1>	
+				<br />
+				<p id="subTxt">
+					The Computer Club of Delhi Public School, R. K. Puram
+				</p>
+
+				<div class="btn" id='exp'>EXPLORE</div>
+
+			</div>
+		</div>		
+
+		<div class="page" id='p2'>
+			<h2 class="pageHead">About</h2>
+			<div id="p2Txt">
+				Exun, the computer club at Delhi Public School, R K Puram, stands for Experts "Unlimited". Our motto is "We not I" , which in essence means
+				that we believe in team spirit. Exun was started in 1992 by the Head of Department, Computer Science, Mr. Mukesh Kumar and a small group of
+				talented students. It is today a 50+ member organisation with its members standing out in various fields like computer programming, computer
+				quizzing, web design & development, digital imaging, 3d design & animation, 2d animation,video and audio editing.
+				<br /><br />
+				Exun members form an elite
+				team of computer enthusiasts of all ages. They have represented the school in various computer symposia in India and around the world. They
+				have been actively involved in activities like web page designing, software development and attending inter-school competitions. They 
+				have won several awards at various symposiums, excelling in nearly all of them and securing top positions.				
+			</div>	
+			<img id="inlineLogo" src='IMG/logo.png' />
+
+		</div>
+
+		<div class="page" id='p3'>
+			<h2 class="pageHead" id='p3Head'>Members</h2>
+			<p id="p3Txt">
+				The word "teamwork" loses its meaning without a team. All of our achievments are only possible because of our talented 
+				and dedicated members. But our members aren't just skillful, they make a united team, working as a part of a larger whole
+				with everyone contributing to make exun even better.
+				<br /><br />
+				The alumni is equally responsible for Exun's success. They provide constant support and guidance that we can rely on 
+				to make us achieve new heights. 
+			</p>
+			<a class="btn viewMore" href="members.php">View our members</a>
+			<a class="btn viewMore" href="alumni.php">View our alumni</a>
+		</div>
+
+
+		<div class="page" id="p4">
+			<h2 class="pageHead">ACHIEVEMENTS</h2>
+
+			<div class="p4card" id='a1' >
+				<img class="p4cImg" src='IMG/minet.jpg' />
+				<h2 class="p4cName">MINET X</h2>
+				<p class="p4cDesc"> Hosted by the Mother's Int. School, MINET X is one of the largest tech events in Delhi/NCR. Exun clan bagged the overall trophy in MINET X 2015</p>
+			</div>
+
+			<div class="p4card" id='a2' >
+				<img class="p4cImg" src='IMG/cyberbuzz.jpg' />
+				<h2 class="p4cName">Cyber Buzz</h2>
+				<p class="p4cDesc"> Amity Cyber Buzz is the prestigious annual technology symposium hosted by Amity International School, Sector-43, Gurgaon. Exun clan were the ovrall winners.</p>
+			</div>
+
+			<div class="p4card" id='a3' >
+				<img class="p4cImg" src='IMG/ordinatrix.jpg' />
+				<h2 class="p4cName">Ordinatrix</h2>
+				<p class="p4cDesc"> Ordinatrix is an interschool computer fest organised by Tagore International School every yeas. Exun bagged the overall trophy in the event.</p>
+			</div>
+
+			<br />
+
+			<div class="p4card" id='a4' >
+				<img class="p4cImg" src='IMG/gateway.jpg' />
+				<h2 class="p4cName">Gateway</h2>
+				<p class="p4cDesc">Gateway is an anual IT copetition organised by Converge Clan of Montfort School, New Delhi. Exun was the overall winner in Gateway 2015.</p>
+			</div>
+
+
+			<div class="p4card" id='a5' >
+				<img class="p4cImg" src='IMG/force.jpg' />
+				<h2 class="p4cName">Force Fest</h2>
+				<p class="p4cDesc">Force fest is an IT symposium held at Apeejay School, Sheikh Sarai consisting of 11 events. Exun clan were the over winners here in the event.</p>
+			</div>
+
+
+			<div class="p4card" id='a6' >
+				<img class="p4cImg" src='IMG/interface.jpg' />
+				<h2 class="p4cName">Interface</h2>
+				<p class="p4cDesc"> Interfce in an IT event organised by St. Xavier's School, with an aim to make participants display their talent. Exun clan were the overall winners in the event.</p>
+			</div>
+
+
+
+
+
+		</div>
+
+		<div class="page" id="p5">
+			<h2 id="page5Head">Reach out to us at the following</h2>
+
+			<a class='link' id="mail" href="mailto:exunclan@gmail.com">exunclan@gmail.com</a>
+			<span class='link' id="lne">lnexun.com</span>
+			<br />			
+			<img class="ico" src="IMG/fb.png" id='fb'/>
+			<img class="ico" src="IMG/twi.png" id='twi' />
+
+		</div>
+
+		<footer>
+			 &copy; Exun Clan | We, not I. <br />
+		</footer>
+
+		<div id="loadPane">
+			<img id="loadLogo" src="IMG/logo.png" />
+			<div id="loader"></div>
+		</div>
+
+
+	</body>
+
+</html>
