@@ -75,61 +75,61 @@
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
 					<h3 class="memName">Abhishek Anand</h3>
-					<h3 class="memDesig">Member</h3>
+					<h3 class="memDesig">Honorary Advisor</h3>
 				</div>
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
 					<h3 class="memName">Tanay Kothari</h3>
-					<h3 class="memDesig">Member</h3>
+					<h3 class="memDesig">Honorary Advisor</h3>
 				</div>
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
 					<h3 class="memName">Zorawar Singh</h3>
-					<h3 class="memDesig">Member</h3>
+					<h3 class="memDesig">Honorary Advisor</h3>
 				</div>
 				
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
 					<h3 class="memName">Anumay Mishra</h3>
-					<h3 class="memDesig">Member</h3>
+					<h3 class="memDesig">Honorary Advisor</h3>
 				</div>
 				
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
 					<h3 class="memName">Shubham Aggarwal</h3>
-					<h3 class="memDesig">Member</h3>
+					<h3 class="memDesig">Honorary Advisor</h3>
 				</div>
 
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
 					<h3 class="memName">Arkin Gupta</h3>
-					<h3 class="memDesig">Member</h3>
+					<h3 class="memDesig">Honorary Advisor</h3>
 				</div>
 
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
 					<h3 class="memName">Rahul Shekhar</h3>
-					<h3 class="memDesig">Member</h3>
+					<h3 class="memDesig">Honorary Advisor</h3>
 				</div>
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
 					<h3 class="memName">Abhimanyu Sinha</h3>
-					<h3 class="memDesig">Member</h3>
+					<h3 class="memDesig">Honorary Advisor</h3>
 				</div>
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
 					<h3 class="memName">Sana Gujral</h3>
-					<h3 class="memDesig">Member</h3>
+					<h3 class="memDesig">Honorary Advisor</h3>
 				</div>
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
 					<h3 class="memName">Neel Bakshi</h3>
-					<h3 class="memDesig">Member</h3>
+					<h3 class="memDesig">Honorary Advisor</h3>
 				</div>
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
 					<h3 class="memName">Sambhav Anand</h3>
-					<h3 class="memDesig">Member</h3>
+					<h3 class="memDesig">Honorary Advisor</h3>
 				</div>
 				<div class="memCard">
 					<img class="memPic" src='IMG/user.png' />
